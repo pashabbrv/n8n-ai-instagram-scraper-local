@@ -142,7 +142,7 @@ Though n8n offers a cloud-hosted option, I opted for self-hosting primarily for 
 The initial setup of n8n was straightforward using Docker Compose, although configuring the network infrastructure to securely expose the services to the internet (necessary for connecting with Google Sheets APIs) was a bit fiddly. Ironically, Id say this project became as much a DevOps and networking project as it was an AI endeavour. Overall though I would definitely recommend self-hosting it as it was a lot of fun and a good learning exercise.
 
 ### AI Limitations: 
-Occasionally even GPT-4.1-mini struggled with accurate categorization, especially with foreign names and locations. It sometimes mistook adverts as relevant content. I think some more experimenting with prompts could have improved this.
+Occasionally even GPT-4.1-mini struggled with accurate categorisation, especially with foreign names and locations. It sometimes mistook adverts as relevant content. I think some more experimenting with prompts could have improved this.
 
 ### Output Is Only As Good As Your Data
 Once I paid closer attention picking reels to scraper, it did highlight how many reels were mostly just advertising or the same advice repeated. Finding good reels to scrape became more difficult than getting the information from them! (Which maybe should be considered a win!)
@@ -172,7 +172,7 @@ Marketing research is big business and this automated tool could feed in reels o
 By including user comments and engagement metrics, you can layer in sentiment analysis and keyword tracking on top of the basic scrape. Marketing teams can see what people are saying in real time about a product launch, a brand repositioning, or a digital campaign. With Instaloader you could even include competitor profiles, monitoring for spikes in either positive or negative sentiment so your team is always a step ahead.
 
 ### Risk Detection & Cyber Intelligence
-Threat intelligence is a booming industry and having eye on the web for protecting both brand and personal is not possible at scale with human teams. While there will always will be a place for human intelligence, leveraging tools like this with ai integration can scan for real time intelligence and at a fraction of the cost.
+Threat intelligence is a booming industry and having eyes on the web for protecting both brand and personal is not possible at scale with human teams. While there will always be a place for human intelligence, leveraging tools like this with AI integration can scan for real time intelligence and at a fraction of the cost.
 
 ### Monitoring Small Business
-For small businesses this tool allows a cheap way to keep an eye on their digital footprint. Instead of hiring an agency they can automatically see what customers are saying, see and address recurring complaints, and even consider ai engagement with followers. 
+For small businesses this tool allows a cheap way to keep an eye on their digital footprint. Instead of hiring an agency they can automatically see what customers are saying, see and address recurring complaints, and even consider AI engagement with followers.
