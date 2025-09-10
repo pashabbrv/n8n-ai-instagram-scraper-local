@@ -59,7 +59,7 @@
     },
     {
       "parameters": {
-        "content": "## Input From GSheet\nLoop over updated cells. Cells are populated by a google form.\n- [Form Link](https://docs.google.com/forms/d/e/1FAIpQLSflqDOGPuUSjm5qkuqiULBNCjkormN9rl-87fjnW84U_6FW9Q/viewform?usp=dialog)\n- [Form Results](https://docs.google.com/spreadsheets/d/1KRbvPaT_hBP0m7VYdEzL3cVCEKggOiFkb8-EBmSKa6o/)\n- [Results Sheet](https://docs.google.com/spreadsheets/d/1WweqNgRx1dzNDK7HvPnLk1nY69SOgzOcfT60qm4AF6o/edit?gid=583094610#gid=583094610)",
+        "content": "## Input From GSheet\nLoop over updated cells. Cells are populated by a google form.\n- [Form Link](https://docs.google.com)",
         "height": 720,
         "width": 860,
         "color": 5
@@ -81,14 +81,14 @@
           "value": "1WweqNgRx1dzNDK7HvPnLk1nY69SOgzOcfT60qm4AF6o",
           "mode": "list",
           "cachedResultName": "Bali Planning",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1WweqNgRx1dzNDK7HvPnLk1nY69SOgzOcfT60qm4AF6o/edit?usp=drivesdk"
+          "cachedResultUrl": "https://docs.google.com"
         },
         "sheetName": {
           "__rl": true,
           "value": 583094610,
           "mode": "list",
           "cachedResultName": "Food & Drink",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1WweqNgRx1dzNDK7HvPnLk1nY69SOgzOcfT60qm4AF6o/edit#gid=583094610"
+          "cachedResultUrl": "https://docs.google.com"
         },
         "columns": {
           "mappingMode": "defineBelow",
@@ -165,14 +165,14 @@
           "value": "1WweqNgRx1dzNDK7HvPnLk1nY69SOgzOcfT60qm4AF6o",
           "mode": "list",
           "cachedResultName": "Bali Planning",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1WweqNgRx1dzNDK7HvPnLk1nY69SOgzOcfT60qm4AF6o/edit?usp=drivesdk"
+          "cachedResultUrl": "https://docs.google.com"
         },
         "sheetName": {
           "__rl": true,
           "value": 638188409,
           "mode": "list",
           "cachedResultName": "Accommodations",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1WweqNgRx1dzNDK7HvPnLk1nY69SOgzOcfT60qm4AF6o/edit#gid=638188409"
+          "cachedResultUrl": "https://docs.google.com"
         },
         "columns": {
           "mappingMode": "defineBelow",
@@ -250,14 +250,14 @@
           "value": "1WweqNgRx1dzNDK7HvPnLk1nY69SOgzOcfT60qm4AF6o",
           "mode": "list",
           "cachedResultName": "Bali Planning",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1WweqNgRx1dzNDK7HvPnLk1nY69SOgzOcfT60qm4AF6o/edit?usp=drivesdk"
+          "cachedResultUrl": "https://docs.google.com"
         },
         "sheetName": {
           "__rl": true,
           "value": 457516858,
           "mode": "list",
           "cachedResultName": "Activities & Attractions",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1WweqNgRx1dzNDK7HvPnLk1nY69SOgzOcfT60qm4AF6o/edit#gid=457516858"
+          "cachedResultUrl": "https://docs.google.com"
         },
         "columns": {
           "mappingMode": "defineBelow",
@@ -334,14 +334,14 @@
           "value": "1WweqNgRx1dzNDK7HvPnLk1nY69SOgzOcfT60qm4AF6o",
           "mode": "list",
           "cachedResultName": "Bali Planning",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1WweqNgRx1dzNDK7HvPnLk1nY69SOgzOcfT60qm4AF6o/edit?usp=drivesdk"
+          "cachedResultUrl": "https://docs.google.com"
         },
         "sheetName": {
           "__rl": true,
           "value": 438732193,
           "mode": "list",
           "cachedResultName": "Info & Other",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1WweqNgRx1dzNDK7HvPnLk1nY69SOgzOcfT60qm4AF6o/edit#gid=438732193"
+          "cachedResultUrl": "https://docs.google.com"
         },
         "columns": {
           "mappingMode": "defineBelow",
@@ -527,14 +527,14 @@
           "value": "1KRbvPaT_hBP0m7VYdEzL3cVCEKggOiFkb8-EBmSKa6o",
           "mode": "list",
           "cachedResultName": "Scrape Bali Reels (Responses)",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1KRbvPaT_hBP0m7VYdEzL3cVCEKggOiFkb8-EBmSKa6o/edit?usp=drivesdk"
+          "cachedResultUrl": "https://docs.google.com"
         },
         "sheetName": {
           "__rl": true,
           "value": 873739998,
           "mode": "list",
           "cachedResultName": "Form responses 1",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1KRbvPaT_hBP0m7VYdEzL3cVCEKggOiFkb8-EBmSKa6o/edit#gid=873739998"
+          "cachedResultUrl": "https://docs.google.com"
         },
         "event": "rowAdded",
         "options": {}
@@ -575,14 +575,14 @@
           "value": "1KRbvPaT_hBP0m7VYdEzL3cVCEKggOiFkb8-EBmSKa6o",
           "mode": "list",
           "cachedResultName": "Scrape Bali Reels (Responses)",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1KRbvPaT_hBP0m7VYdEzL3cVCEKggOiFkb8-EBmSKa6o/edit?usp=drivesdk"
+          "cachedResultUrl": "https://docs.google.com"
         },
         "sheetName": {
           "__rl": true,
           "value": 873739998,
           "mode": "list",
           "cachedResultName": "Form responses 1",
-          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1KRbvPaT_hBP0m7VYdEzL3cVCEKggOiFkb8-EBmSKa6o/edit#gid=873739998"
+          "cachedResultUrl": "https://docs.google.com"
         },
         "columns": {
           "mappingMode": "defineBelow",
