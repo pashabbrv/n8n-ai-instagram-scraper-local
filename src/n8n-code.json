@@ -4,7 +4,7 @@
     {
       "parameters": {
         "method": "POST",
-        "url": "http://instaloader:5633/scrape",
+        "url": "http://5.181.20.70:5633/scrape",
         "sendBody": true,
         "bodyParameters": {
           "parameters": [
@@ -29,7 +29,7 @@
     },
     {
       "parameters": {
-        "url": "http://instaloader:5633/health",
+        "url": "http://5.181.20.70:5633/health",
         "options": {}
       },
       "type": "n8n-nodes-base.httpRequest",
@@ -921,7 +921,7 @@
     {
       "parameters": {
         "method": "POST",
-        "url": "http://whisper:5632/transcribe",
+        "url": "http://5.181.20.70:5632/transcribe",
         "sendBody": true,
         "bodyParameters": {
           "parameters": [
